@@ -1,0 +1,6 @@
+---
+- name: Find out stuff
+  hosts: all
+  connection: local
+  roles:
+  - bootcamp1
